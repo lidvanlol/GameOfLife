@@ -1,4 +1,4 @@
-Simple game of life that fallows these rules https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+Simple game of life that follows these rules https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 1.Download and use npm install command
 2.Then use npm start
 
